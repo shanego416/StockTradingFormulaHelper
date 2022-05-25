@@ -19,6 +19,8 @@ At one point I ran into an issue with the "scanf" function, if the user were to 
 the program would enter an infinite loop. I managed to fix this by assigning a character value at the beginning at the program, 
 and then making sure the loop breaks if that changes. I know that this is not perfect and the project is still being worked on.
 
+This program is a bit buggy but hey, it's a first attemp.
+
 Thanks for checking it out!
 
 
