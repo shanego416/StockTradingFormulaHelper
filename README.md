@@ -1,0 +1,2 @@
+# StockTradingFormulaHelper
+First Draft 
